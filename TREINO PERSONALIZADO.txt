@@ -1,0 +1,45 @@
+PROMPT
+crie um treino de musculação para mim considerando os seguintes fatores:
+
+a) Sou Endomorfo
+b) tenho 3 dias disponíveis para treino
+c) Prefiro o treino tipo "ABC"
+d) meus exercícios preferidos são: 1) em máquinas de musculação, 2) com pesos livres; 3) cardio.
+
+
+SAÍDA:
+
+Claro! Aqui está um plano de treino de musculação tipo “ABC” para você, considerando que você é endomorfo, tem 3 dias disponíveis para treino e prefere exercícios em máquinas de musculação, com pesos livres e cardio.
+
+Dia A: Peito e Tríceps
+Aquecimento: 10 minutos de cardio leve (esteira, bicicleta ou elíptico)
+Supino reto na máquina: 3 séries de 12 repetições
+Supino inclinado com halteres: 3 séries de 12 repetições
+Crucifixo na máquina: 3 séries de 15 repetições
+Tríceps na polia (cabo): 3 séries de 15 repetições
+Tríceps francês com halteres: 3 séries de 12 repetições
+Cardio: 20 minutos de corrida ou bicicleta
+
+Dia B: Costas e Bíceps
+Aquecimento: 10 minutos de cardio leve (esteira, bicicleta ou elíptico)
+Puxada alta na máquina: 3 séries de 12 repetições
+Remada baixa na máquina: 3 séries de 12 repetições
+Remada curvada com halteres: 3 séries de 12 repetições
+Rosca direta com barra: 3 séries de 15 repetições
+Rosca alternada com halteres: 3 séries de 12 repetições
+Cardio: 20 minutos de corrida ou bicicleta
+
+Dia C: Pernas e Ombros
+Aquecimento: 10 minutos de cardio leve (esteira, bicicleta ou elíptico)
+Agachamento na máquina Smith: 3 séries de 12 repetições
+Leg press: 3 séries de 12 repetições
+Extensão de pernas na máquina: 3 séries de 15 repetições
+Desenvolvimento de ombros na máquina: 3 séries de 12 repetições
+Elevação lateral com halteres: 3 séries de 15 repetições
+Cardio: 20 minutos de corrida ou bicicleta
+
+Dicas Adicionais:
+Descanso: Certifique-se de descansar pelo menos um dia entre os treinos para permitir a recuperação muscular.
+Nutrição: Mantenha uma dieta equilibrada e rica em proteínas para ajudar na construção muscular.
+Hidratação: Beba bastante água ao longo do dia, especialmente durante os treinos.
+Espero que este plano de treino seja útil para você! Se precisar de mais alguma coisa, estou à disposição. 💪😊
